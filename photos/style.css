@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1400px;
+    padding:0;
+    margin: 0 auto;
+}
+.card-body{
+    background-color:aqua;
+   color: midnightblue;
+    row-gap: 5px;
+    border-radius: 4px;
+    
+
+
+}
